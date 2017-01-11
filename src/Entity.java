@@ -1,4 +1,5 @@
 public class Entity {
     int tryNumber;
-    String name;
+    String name;//comment
+    int lalalav2;
 }
