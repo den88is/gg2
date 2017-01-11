@@ -3,5 +3,4 @@ public class Entity {
     String name;//comment
     int lalalav2;//the commit more
     //com1
-    //com2
 }
